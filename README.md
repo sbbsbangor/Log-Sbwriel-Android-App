@@ -34,6 +34,6 @@ We hope you have fun logging litter with Log Sbwriel :-)
 
 ##Credits
 
-Log Sbwriel was created as a collaboration between the Snowdonia Society and SBBS Bangor. Development, programming and graphics by Dr Andrew Thomas. Copyright 2014 Snowdonia Society, SBBSBangor and Andrew Thomas.
+Log Sbwriel was created as an R&D collaboration between the Snowdonia Society and SBBS, Bangor University, through the WISE Network project (http://www.wisenetwork.org). Development, programming and graphics by Dr Andrew Thomas. Copyright 2014 Snowdonia Society, SBBSBangor and Andrew Thomas.
 
 
