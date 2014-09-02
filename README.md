@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Log Sbwriel (Welsh for Litter Log) is a simple GPS mobile litter survey app built using Processing for Android by SBBS (www.sbbs.org) and the Snowdonia Society (www.snowdonia-society.org.uk). It uses the GPS in your Android phone or tablet to locate the positions at which you record finding different types of litter using graphical icons on the main app screen. And, being produced in Wales, Log Sbwriel is fully bi-lingual allowing use by Welsh and English speakers (and it’s easily changed if you prefer a different language).
+Log Sbwriel (Welsh for Litter Log) is a simple GPS mobile litter survey app built using Processing for Android by SBBS (www.sbbs.org.uk) and the Snowdonia Society (www.snowdonia-society.org.uk). It uses the GPS in your Android phone or tablet to locate the positions at which you record finding different types of litter using graphical icons on the main app screen. And, being produced in Wales, Log Sbwriel is fully bi-lingual allowing use by Welsh and English speakers (and it’s easily changed if you prefer a different language).
 
 Littering is a problem we all see every day and it reduces the quality of our lives and the places around us. It’s also something that’s difficult and costly to address, as well as having many damaging environmental effects. That’s why we developed this app: to help empower Welsh Citizen Scientists to create open data relating to littering problems, hot-spots and behaviour, including using open-source methods so they can easily improve it for their own needs. So hopefully, like us, you’ll find Log Sbwriel useful for generating geo-referenced litter data, in which case you can find out more about our data at http://figshare.com/authors/OpenData_SBBSBangor/574716.
 
